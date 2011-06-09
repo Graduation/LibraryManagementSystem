@@ -1,1 +1,0 @@
-This is a test file which use to test delete file on the github.
